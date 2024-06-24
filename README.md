@@ -1,2 +1,2 @@
-# discriminator-per-tenant
-Grails app for multitenants using discriminator
+# database-per-tenant
+A Guide to using Database-Per-Tenant Multi Tenancy with GORM 6.1
